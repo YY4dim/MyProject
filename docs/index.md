@@ -11,7 +11,9 @@
   }
 </style>
 
-#I Play VRChat!
+---
+# I Play VRChat!
+I Create World with My Friend.
 
 ![OurWorld](Image0.jpg)
 
